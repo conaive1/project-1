@@ -1,1 +1,4 @@
 hello world!
+//gi add ten file 
+//git commit -m 'noi dung'
+//git push
